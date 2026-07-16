@@ -1,0 +1,9 @@
+| Term              | Meaning                                       |
+| ----------------- | --------------------------------------------- |
+| Repository (Repo) | Your project                                  |
+| Commit            | A snapshot of your project at a point in time |
+| Branch            | An independent line of development            |
+| Clone             | Download an existing repository               |
+| Push              | Upload your commits to GitHub                 |
+| Pull              | Download changes from GitHub                  |
+| Merge             | Combine two branches                          |

@@ -6,5 +6,17 @@ The Object is a filled-out form. When you take that blank form and write "Google
 specific instance of that form.
 """
 class BGPNeighbor:
-    pass        #pass doesn nothing and just a placeholder.
+#    pass        #pass doesn nothing and just a placeholder.
+    def __init__(self):
+        self.ip_address = None
+        self.remote_as = None
+        self.description = None
+        self.update_source = None   
+        self.route_map_in = None
+        self.route_map_out = None
+
+
+
+
+
 

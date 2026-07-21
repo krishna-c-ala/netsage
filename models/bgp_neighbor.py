@@ -34,6 +34,9 @@ class BGPNeighbor:
         self.route_map_in = route_map_in
         self.route_map_out = route_map_out
 
+        # Original CLI commands related to this neighbor
+        self.config_lines = []
+
 
 
 
